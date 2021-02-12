@@ -1,0 +1,10 @@
+ Volume in drive G is WORK
+ Volume Serial Number is B88F-14BA
+
+ Directory of G:\GIT\MyGitProject
+
+02-11-2021  11:10 PM    <DIR>          .
+02-11-2021  11:10 PM    <DIR>          ..
+02-11-2021  11:10 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  43,094,970,368 bytes free
